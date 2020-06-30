@@ -1,0 +1,16 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 29 Jun 2020 18:15:54 at https://pruebas865.webnode.pe/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://pruebas865.webnode.pe/ -O1 "C:\Users\51982\Documents\Camtasia Studio\afarensis\probare" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:16:29	Error: 	"Not Found" (404) at link https://pruebas865.webnode.pe/wnd_header.set/ (from https://pruebas865.webnode.pe/)
+18:16:29	Warning: 	Moved Permanently for https://pruebas865.webnode.pe/home/
+18:16:29	Warning: 	File has moved from https://pruebas865.webnode.pe/home/ to https://pruebas865.webnode.pe
+18:16:29	Error: 	"Not Found" (404) at link https://pruebas865.webnode.pe/alojamiento/ (from https://pruebas865.webnode.pe/)
+18:16:29	Error: 	"Not Found" (404) at link https://pruebas865.webnode.pe/contacto/ (from https://pruebas865.webnode.pe/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 35 seconds : 131 links scanned, 125 files written (10621955 bytes overall) [8129048 bytes received at 232258 bytes/sec], 5431753 bytes transferred using HTTP compression in 45 files, ratio 52%, 12.0 requests per connection
+(3 errors, 2 warnings, 0 messages)

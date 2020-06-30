@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+pruebas865.webnode.pe	TRUE	/	FALSE	1999999999	PHPSESSID	34ab1fbe96dc6bf562e6f9ffcbfe5f28
+
